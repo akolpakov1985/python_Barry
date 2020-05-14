@@ -1,2 +1,2 @@
-# python_Berry
-**Lessons from P.Berry's book**
+# python_Barry
+**Lessons from P.Barry's book**
