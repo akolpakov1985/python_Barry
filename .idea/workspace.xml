@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a92f678-f053-42d0-963d-83e2a2a642f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vowels4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vowels5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vowels7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/panic2.py" beforeDir="false" afterPath="$PROJECT_DIR$/panic2.py" afterDir="false" />
-    </list>
+    <list default="true" id="2a92f678-f053-42d0-963d-83e2a2a642f1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Testhaus_automatisierung/SCRIPTS/dwa_parser_0.18.py">
+        <entry file="file://$PROJECT_DIR$/../Logcat-parser/logcatParser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="194" column="4" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
+            <state relative-caret-position="248">
+              <caret line="111" column="8" lean-forward="true" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -61,6 +54,7 @@
         <option value="$PROJECT_DIR$/../Testhaus_automatisierung/SCRIPTS/dwa_parser_0.17.py" />
         <option value="$PROJECT_DIR$/../Testhaus_automatisierung/SCRIPTS/search4vowels.py" />
         <option value="$PROJECT_DIR$/../Testhaus_automatisierung/SCRIPTS/dwa_parser_0.18.py" />
+        <option value="$PROJECT_DIR$/../Logcat-parser/logcatParser.py" />
       </list>
     </option>
   </component>
@@ -245,14 +239,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15437302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27302274" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27302274" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,8 +332,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Testhaus_automatisierung/SCRIPTS/dwa_parser_0.18.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="194" column="4" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
+        <state relative-caret-position="280">
+          <caret line="180" column="27" selection-end-line="196" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Logcat-parser/logcatParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="111" column="8" lean-forward="true" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
         </state>
       </provider>
     </entry>
